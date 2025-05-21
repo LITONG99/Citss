@@ -1,4 +1,5 @@
 # Citss
+[![DOI](https://zenodo.org/badge/985872801.svg)](https://doi.org/10.5281/zenodo.15480908)
 
 This is the official repository of our KDD 2025 paper: "Adapting Pretrained Language Models for **Cit**ation Classification via **S**elf-**S**upervised Contrastive Learning". In this paper, we present an effective framework, Citss, that finetunes the pretrained backbone models to identify and categorize authors' intentions behind using citations in their writing. 
 
