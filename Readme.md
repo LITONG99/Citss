@@ -3,7 +3,7 @@
 
 This is the official repository of our KDD 2025 paper: "Adapting Pretrained Language Models for **Cit**ation Classification via **S**elf-**S**upervised Contrastive Learning". In this paper, we present an effective framework, Citss, that finetunes the pretrained backbone models to identify and categorize authors' intentions behind using citations in their writing. 
 
-The preview  is available at [ArXiv](arxiv.org/abs/2505.14471v1). The acronym 'Citss' can be pronounced as 'sits'. 
+The preview  is available at [ArXiv](https://arxiv.org/abs/2505.14471v1). The acronym 'Citss' can be pronounced as 'sits'. 
 - Our framework is compatible with both encoder-based PLMs and decoder-based LLMs, to embrace the benefits of enlarged pretraining. 
 - Our approach introduces self-supervised contrastive learning to alleviate data scarcity.
 - We propose a sentence-level cropping (SC) strategy to obtain the contrastive pairs, which enhances focus on target citations within long contexts.
